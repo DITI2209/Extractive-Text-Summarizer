@@ -25,7 +25,7 @@ The Extractive Text Summarizer is a web-based tool that condenses lengthy articl
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/extractive-text-summarizer.git
+   https://github.com/DITI2209/Extractive-Text-Summarizer.git
    ```
 
 2. Navigate to the project directory:
